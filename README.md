@@ -1,0 +1,2 @@
+# ThreadCoreSettingDemo
+测试在CPU密集型场景下和IO密集型场景下的线程池CPU数量设置
